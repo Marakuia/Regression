@@ -6,4 +6,7 @@ Loss function is root mean square error (MSE) <br/>
 After training, the root mean square error on the validation data is 0.96. <br/>
 
 ### Results
-Dependence of the loss function on the epoch number
+Dependence of the loss function on the epoch number <br/>
+![Image alt](https://github.com/Marakuia/Regression/blob/main/MSE_loss.png) <br/>
+Learning Visualization <br/>
+![Image alt](https://github.com/Marakuia/Regression/blob/main/visual.png) <br/>
